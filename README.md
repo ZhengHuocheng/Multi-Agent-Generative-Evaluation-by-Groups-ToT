@@ -4,7 +4,7 @@
 
 框架的概念图如下：
 
-![](C:\Users\20931\Desktop\FRAMEWORK.png)
+![](https://github.com/ZhengHuocheng/Multi-Agent-Generative-Evaluation-by-Groups-ToT/blob/main/Pics/FRAMEWORK.png)
 
 其中：
 
